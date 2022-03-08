@@ -41,5 +41,3 @@ The main idea of this application is to provide help immediately to any women wh
 - Further, if needed this can be implemented into a web based application too which will make it cross-platform and can be made to run on Android, Windows & MacOS.
 -------
 
-#### Working video of App is available at the below link and in the above Result folder. 
-#### [Click Here](https://drive.google.com/file/d/1G76NlJUsgAhS_HCvUXAFjRF6tGUb7fN5/view?usp=sharing)
